@@ -18,22 +18,10 @@ A browser-based drawing application inspired by the classic Etch-a-Sketch toy. U
 * HTML5
 * CSS3
 * JavaScript (Vanilla JS)
+  
+<img width="857" height="862" alt="image" src="https://github.com/user-attachments/assets/f452a9bb-7990-4813-8294-f4b3e6b6a298" />
 
-## How to Run
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/etch-a-sketch.git
-```
-
-2. Navigate to the project directory:
-
-```bash
-cd etch-a-sketch
-```
-
-3. Open `index.html` in your browser.
+https://surbhibadhe.github.io/etch-a-sketch/
 
 ## Project Structure
 
